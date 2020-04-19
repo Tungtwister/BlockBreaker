@@ -584,3 +584,60 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.19-21.39.22:855][  0]LogTexture: Display: Building textures: T_Reticle (AutoDXT, 128X128)
 [2020.04.19-21.39.22:855][  0]LogStaticMesh: Building static mesh SM_Wall...
 [2020.04.19-21.39.22:994][  0]LogStaticMesh: Built static mesh [0.14s] /Game/BlockBreaker/Meshes/SM_Wall.SM_Wall
+[2020.04.19-21.39.23:029][  0]LogMaterial: Display: Missing cached shader map for material M_Base, compiling. 
+[2020.04.19-21.39.23:087][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 15
+[2020.04.19-21.39.23:087][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2020.04.19-21.39.23:087][  0]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2020.04.19-21.39.23:087][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2020.04.19-21.39.23:087][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.04.19-21.39.23:087][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.04.19-21.39.23:087][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.04.19-21.39.23:087][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.04.19-21.39.23:089][  0]LogStaticMesh: Building static mesh SM_Cube...
+[2020.04.19-21.39.23:091][  0]LogStaticMesh: Built static mesh [0.00s] /Game/BlockBreaker/Meshes/SM_Cube.SM_Cube
+[2020.04.19-21.39.23:105][  0]LogMaterial: Display: Missing cached shader map for material M_Reticle, compiling. 
+[2020.04.19-21.39.23:147][  0]LogAIModule: Creating AISystem for world TutorialMap
+[2020.04.19-21.39.23:194][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 30
+[2020.04.19-21.39.23:194][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.19-21.39.23:238][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2020.04.19-21.39.23:239][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.19-21.39.23:239][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.451ms to complete.
+[2020.04.19-21.39.23:240][  0]LogFileHelpers: Loading map 'TutorialMap' took 0.668
+[2020.04.19-21.39.23:483][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.19-21.39.23:493][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.19-21.39.23:503][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.19-21.39.23:512][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.19-21.39.23:535][  0]LogCollectionManager: Loaded 0 collections in 0.002673 seconds
+[2020.04.19-21.39.23:574][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/BlockBreaker/Saved/Collections/' took 0.00s
+[2020.04.19-21.39.23:574][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/BlockBreaker/Content/Developers/Leaf/Collections/' took 0.00s
+[2020.04.19-21.39.23:574][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/BlockBreaker/Content/Collections/' took 0.00s
+[2020.04.19-21.39.23:574][  0]LogContentBrowser: Native class hierarchy populated in 0.0137 seconds. Added 3015 classes and 717 folders.
+[2020.04.19-21.39.23:584][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.04.19-21.39.24:171][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 26
+[2020.04.19-21.39.24:171][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 23
+[2020.04.19-21.39.24:171][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.04.19-21.39.24:188][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2020.04.19-21.39.24:271][  0]LogSlate: Took 0.008536 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.19-21.39.24:282][  0]LogSlate: Took 0.008381 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.19-21.39.24:299][  0]LogSlate: Took 0.009177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.19-21.39.24:527][  0]LogRenderer: Reallocating scene render targets to support 1208x600 Format 10 NumSamples 1 (Frame:1).
+[2020.04.19-21.39.24:889][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 20
+[2020.04.19-21.39.24:889][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 17
+[2020.04.19-21.39.24:889][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 15
+[2020.04.19-21.39.24:889][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 13
+[2020.04.19-21.39.24:889][  0]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2020.04.19-21.39.24:903][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2020.04.19-21.39.24:903][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.04.19-21.39.24:903][  0]LogLoad: (Engine Initialization) Total time: 23.31 seconds
+[2020.04.19-21.39.24:903][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.19-21.39.24:971][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.19-21.39.25:002][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.04.19-21.39.25:002][  0]LogSlate: Took 0.009781 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.19-21.39.25:027][  1]LogAssetRegistry: Asset discovery search completed in 10.7059 seconds
+[2020.04.19-21.39.25:034][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000016 seconds (updated 0 objects)
+[2020.04.19-21.39.25:074][  2]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2020.04.19-21.39.25:287][ 17]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2020.04.19-21.39.25:377][ 24]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2020.04.19-21.39.25:403][ 26]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.04.19-21.39.25:505][ 34]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2020.04.19-21.39.25:560][ 38]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
